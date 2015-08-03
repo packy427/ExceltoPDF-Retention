@@ -7,5 +7,5 @@ I will reply letting you know I got your message and reply again when the new ve
 
 TO DOWNLOAD NEWEST VERSION
 To get newest file version, click on the RetentionProgram.exe on the main screen, and select "View Raw." 
-Save the file where you would like using the dialog box and open it just like before.
+A dialog box will appear, save the file where you would like and run just like before.
 If you recieve an unverified publisher warning, just hit OK to continue.
