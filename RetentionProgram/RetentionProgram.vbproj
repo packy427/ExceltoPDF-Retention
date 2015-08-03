@@ -99,6 +99,10 @@
       <SubType>Form</SubType>
       <Link>MainForm.Designer.vb</Link>
     </Compile>
+    <Compile Include="HelpForm.Designer.vb">
+      <DependentUpon>HelpForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HelpForm.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -119,6 +123,9 @@
     <EmbeddedResource Include="D:\network-files\programming\MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
       <Link>MainForm.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpForm.resx">
+      <DependentUpon>HelpForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

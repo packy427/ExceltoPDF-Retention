@@ -11,3 +11,4 @@ C:\Users\PKIII\Documents\Visual Studio 2015\Projects\RententionProgram\Retention
 C:\Users\PKIII\Documents\Visual Studio 2015\Projects\RententionProgram\RetentionProgram.exe
 C:\Users\PKIII\Documents\Visual Studio 2015\Projects\RententionProgram\RetentionProgram.pdb
 C:\Users\PKIII\Documents\Visual Studio 2015\Projects\RententionProgram\RetentionProgram.xml
+C:\Users\PKIII\Documents\Visual Studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.HelpForm.resources
