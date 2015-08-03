@@ -1,0 +1,13 @@
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\bin\Debug\RetentionProgram.exe.config
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\bin\Debug\RetentionProgram.exe
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\bin\Debug\RetentionProgram.pdb
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\bin\Debug\RetentionProgram.xml
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.vbproj.ResolveComReference.cache
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.MainForm.resources
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.Resources.resources
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.vbproj.GenerateResource.Cache
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.exe
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.xml
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.pdb
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\RetentionProgram.vbprojResolveAssemblyReference.cache
+c:\users\pkiii\documents\visual studio 2015\Projects\RententionProgram\RetentionProgram\obj\Debug\Interop.ScriptingObjectModel.dll
