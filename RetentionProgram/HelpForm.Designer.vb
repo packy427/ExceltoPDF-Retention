@@ -46,13 +46,13 @@ Partial Class HelpForm
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
-        Me.LinkLabel1.Location = New System.Drawing.Point(14, 75)
+        Me.LinkLabel1.Location = New System.Drawing.Point(104, 78)
         Me.LinkLabel1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(370, 20)
+        Me.LinkLabel1.Size = New System.Drawing.Size(175, 20)
         Me.LinkLabel1.TabIndex = 2
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "https://github.com/packy427/ExceltoPDF-Retention"
+        Me.LinkLabel1.Text = "Excel to PDF Retention"
         '
         'RichTextBox2
         '
@@ -89,4 +89,8 @@ Partial Class HelpForm
     Friend WithEvents RichTextBox1 As RichTextBox
     Friend WithEvents LinkLabel1 As LinkLabel
     Friend WithEvents RichTextBox2 As RichTextBox
+
+    Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
+        System.Diagnostics.Process.Start("https://github.com/packy427/ExceltoPDF-Retention")
+    End Sub
 End Class
